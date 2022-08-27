@@ -1,6 +1,7 @@
 import React from 'react';
-import { SubHeading } from '../../components';
 
+
+import { SubHeading } from '../../components';
 import { images } from '../../constants';
 import './Header.css';
 
@@ -13,7 +14,10 @@ const Header = () => (
         Sua melhor experiencia em sabor!
         Ingredientes selecionados com carinho para a melhor experiencia do consumidor. Aqui o bagulho é doido!
       </p>
-      <button type='button' className='custom__button'>Explore o menu</button>
+
+      <a href='https://shop.beetech.com.br/oporao' target="_blank" rel="noreferrer">
+        <button type='button' className='custom__button'>Explore o menu</button>
+      </a>
     </div>
 
     <div className='app__wrapper_img'>

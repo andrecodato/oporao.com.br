@@ -11,8 +11,8 @@ const AboutUs = () => (
 
     <div className='app__aboutus-content flex__center'>
       <div className='app__aboutus-content_about'>
-        <h1 className='headtext__cormorant'>Sobre nós</h1>
-        <img src={images.spoon} alt="about_spoon" className='spoon__img'/>
+        <h1 className='headtext__poppins'>Sobre nós</h1>
+        <img src={images.spatula} alt="about_spatula" className='spatula__img'/>
         <p className='p__opensans'> Somos um restaurante de amigos e parceiros focados em fazer a diferença na culinária local</p>
         <button type='button' className='custom__button'>Saiba mais</button>
       </div>
@@ -22,8 +22,8 @@ const AboutUs = () => (
       </div>
       
       <div className='app__aboutus-content_history'>
-        <h1 className='headtext__cormorant'>Nossa historia</h1>
-        <img src={images.spoon} alt="about_spoon" className='spoon__img'/>
+        <h1 className='headtext__poppins'>Nossa historia</h1>
+        <img src={images.spatula} alt="about_spatula" className='spatula__img'/>
         <p className='p__opensans'> Somos um restaurante de amigos e parceiros focados em fazer a diferença na culinária local</p>
         <button type='button' className='custom__button'>Saiba mais</button>
       </div>

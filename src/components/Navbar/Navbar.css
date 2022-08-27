@@ -33,7 +33,7 @@
 }
 
 .app__navbar-links li:hover {
-    color: var(--color-yellow);
+    color: var(--color-golden);
 }
 
 .app__navbar-login {
@@ -49,7 +49,7 @@
 }
 
 .app__navbar-login a:hover {
-    border-bottom: 1px solid var(--color-yellow);
+    border-bottom: 1px solid var(--color-golden);
 }
 
 .app__navbar-login div {
@@ -78,7 +78,7 @@
 
 .app__navbar-smallscreen_overlay .overlay__close {
     font-size: 27px;
-    color: var(--color-yellow);
+    color: var(--color-golden);
     cursor: pointer;
 
     position: absolute;
@@ -93,7 +93,7 @@
 .app__navbar-smallscreen_links li {
     margin: 2rem;
     cursor: pointer;
-    color: var(--color-yellow);
+    color: var(--color-golden);
     font-size: 2rem;
     text-align: center;
     font-family: var(--font-base);

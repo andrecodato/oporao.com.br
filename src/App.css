@@ -67,7 +67,7 @@
     cursor: pointer;
 }
 
-.p__cormorant {
+.p__poppins {
   font-family: var(--font-base);
   color: var(--color-white);
   font-weight: 700;
@@ -88,7 +88,7 @@
   font-size: 16px;
 }
 
-.headtext__cormorant {
+.headtext__poppins {
   font-family: var(--font-base);
   color: var(--color-golden);
   font-size: 64px;
@@ -97,13 +97,13 @@
   text-transform: capitalize;
 }
 
-.spoon__img {
-  width: 45px;
+.spatula__img {
+  width: 65px;
 }
 
 @media screen and (min-width: 2000px) {
   .custom__button,
-  .p__cormorant {
+  .p__poppins {
     font-size: 37px;
     line-height: 67px;
   }
@@ -113,12 +113,12 @@
     line-height: 50px;
   }
 
-  .headtext__cormorant {
+  .headtext__poppins {
     font-size: 150px;
     line-height: 210px;
   }
 
-  .spoon__img {
+  .spatula__img {
     width: 80px;
   }
 }
@@ -152,7 +152,7 @@
     padding: 4rem 2rem;
   }
   
-  .p__cormorant {
+  .p__poppins {
     font-size: 21px;
   }
 
@@ -166,11 +166,11 @@
     font-size: 12px;
   }
 
-  .p__cormorant {
+  .p__poppins {
     font-size: 19px;
   }
 
-  .headtext__cormorant {
+  .headtext__poppins {
     font-size: 45px;
     line-height: 70px;
   }

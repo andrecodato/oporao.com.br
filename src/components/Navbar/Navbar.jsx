@@ -22,9 +22,9 @@ const Navbar = () => {
         <li className='p__opensans'><a href='#contact'>Contato</a></li>
       </ul>
       <div className='app__navbar-login'>
-        <a href='#login' className='p__opensans'>Log In / Register</a>
+        <a href='https://shop.beetech.com.br/oporao' target='_blank' rel='noreferrer' className='p__opensans'>Faça seu pedido</a>
         <div />
-        <a href='/' className='p__opensans'>Book Table</a>
+        <a href='https://shop.beetech.com.br/oporao' target='_blank' rel='noreferrer' className='p__opensans'>Cardápio</a>
       </div>
       <div className='app__navbar-smallscreen'>
         <GiHamburgerMenu color='#fff' fontSize={27} onClick={() => setToggleMenu(true)} />

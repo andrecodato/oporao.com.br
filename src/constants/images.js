@@ -9,7 +9,7 @@ import knife from '../assets/knife.png';
 import logo from '../assets/logo.png';
 import menu from '../assets/menu.png';
 import overlaybg from '../assets/overlaybg.png';
-import spoon from '../assets/spoon.svg';
+import spatula from '../assets/spatula.svg';
 import welcome from '../assets/welcome.png';
 import findus from '../assets/findus.png';
 import laurels from '../assets/laurels.png';
@@ -21,7 +21,7 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import oporao from '../assets/oporao.png';
 
-export default {
+const images = {
   bg,
   chef,
   O,
@@ -33,7 +33,7 @@ export default {
   logo,
   menu,
   overlaybg,
-  spoon,
+  spatula,
   welcome,
   findus,
   laurels,
@@ -45,3 +45,5 @@ export default {
   quote,
   oporao,
 };
+
+export default images;

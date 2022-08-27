@@ -21,7 +21,7 @@ const Footer = () => (
       <div className='app__footer-links_logo'>
         <img src={images.oporao} alt='footer_logo' />
         <p className='p__opensans'>"O melhor jeito de se encontrar é se perdendo na arte de outros."</p>
-        <img src={images.spoon} alt='spoon' className='spoon__img' style={{marginTop: 15}}/>
+        <img src={images.spatula} alt='spatula' className='spatula__img' style={{marginTop: 15}}/>
         <div className='app__footer-links_icons'>
           <FiFacebook />
           <FiTwitter />
@@ -39,7 +39,7 @@ const Footer = () => (
     </div>
 
     <div className='footer__copyright'>
-      <p className='p__opensans'>2022 OPORAO. Todos os direitos reservados.</p>
+      <p className='p__opensans'>2022 OPORÃO. Todos os direitos reservados.</p>
     </div>
   </div>
 );
