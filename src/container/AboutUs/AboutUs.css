@@ -14,7 +14,7 @@
 }
 
 .app__aboutus-content {
-    width: 100%;
+    width: 75%;
     z-index: 2;
 }
 
@@ -29,7 +29,7 @@
 }
 
 .app__aboutus-content_knife {
-    margin: 1rem 2rem;
+    margin: 1rem 5rem;
 }
 
 .app__aboutus-content_knife img {
@@ -44,6 +44,10 @@
     flex-direction: column;
 
     text-align: left;
+}
+
+.app__aboutus-content_history img {
+    transform: scale(-1, 1);
 }
 
 .app__aboutus-content_history p,
