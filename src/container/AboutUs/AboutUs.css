@@ -8,7 +8,7 @@
 }
 
 .app__aboutus-overlay img {
-    width: 565px;
+    width: auto;
     height: 600px;
     z-index: 0;
 }
@@ -29,11 +29,11 @@
 }
 
 .app__aboutus-content_knife {
-    margin: 2rem 4rem;
+    margin: 1rem 2rem;
 }
 
-.app__aboutus-content-knife img {
-    height: 300px;
+.app__aboutus-content_knife img {
+    height: 800px;
 }
 
 .app__aboutus-content_history {
