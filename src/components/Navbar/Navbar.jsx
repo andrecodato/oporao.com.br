@@ -19,7 +19,7 @@ const Navbar = () => {
         <li className='p__opensans'><a href='#about'>Sobre nós</a></li>
         <li className='p__opensans'><a href='#menu'>Cardápio</a></li>
         <li className='p__opensans'><a href='#awards'>Premiações</a></li>
-        <li className='p__opensans'><a href='#findus'>Contato</a></li>
+        <li className='p__opensans'><a href='#findus'>Encontre-nos</a></li>
       </ul>
       <div className='app__navbar-login'>
         <a href='https://shop.beetech.com.br/oporao' target='_blank' rel='noreferrer' className='p__opensans'>Faça seu pedido</a>
