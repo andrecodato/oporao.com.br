@@ -13,8 +13,8 @@ const FindUs = () => (
       <div className='app__wrapper-content'>
         <p className='p__opensans'>Rua Ratolandia do sul, 1234 - Praça Anchieta</p>
         <p className='p__poppins'>Funcionamento:</p>
-        <p className='p__opensans'>Terça - Domingo | 18:00 às 23:30</p>
-        <p className='p__opensans'>Terça - Domingo | 18:00 às 23:30</p>
+        <p className='p__opensans'>Terça - Quinta | 18:00 às 23:30</p>
+        <p className='p__opensans'>Sexta - Domingo | 18:00 às 00:30</p>
       </div>
       <button className='custom__button'>Conheça</button>
     </div>
