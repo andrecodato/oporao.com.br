@@ -13,7 +13,7 @@ const AboutUs = () => (
       <div className='app__aboutus-content_about'>
         <h1 className='headtext__poppins'>Sobre nós</h1>
         <img src={images.spatula} alt="about_spatula" className='spatula__img'/>
-        <p className='p__opensans'> Somos um restaurante de amigos e parceiros focados em fazer a diferença na culinária local</p>
+        <p className='p__opensans'>Somos uma casa de amigos e parceiros! Nosso foco é inspirar novas memórias ou momentos de lazer! Amamos o que fazemos e queremos transmitir esse amor...</p>
         <button type='button' className='custom__button'>Saiba mais</button>
       </div>
 
@@ -24,7 +24,7 @@ const AboutUs = () => (
       <div className='app__aboutus-content_history'>
         <h1 className='headtext__poppins'>Nossa historia</h1>
         <img src={images.spatula} alt="about_spatula" className='spatula__img'/>
-        <p className='p__opensans'> Somos um restaurante de amigos e parceiros focados em fazer a diferença na culinária local</p>
+        <p className='p__opensans'>Nossa paixão começou nos rolês culinários na casa dos amigos, uma tapioca aqui, um churrasco ali, até chegarmos nos hamburgueres...</p>
         <button type='button' className='custom__button'>Saiba mais</button>
       </div>
     </div>
