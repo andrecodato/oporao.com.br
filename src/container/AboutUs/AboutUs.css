@@ -9,8 +9,10 @@
 
 .app__aboutus-overlay img {
     width: auto;
-    height: 600px;
+    height: 900px;
     z-index: 0;
+
+    opacity: 40%;
 }
 
 .app__aboutus-content {
